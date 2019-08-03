@@ -1,4 +1,7 @@
 # Creamos la clase node
+# este es un comentario
+
+
 
 class node:
     def __init__(self, posx = None, posy = None, next = None):
